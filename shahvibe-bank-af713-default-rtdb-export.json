@@ -1,0 +1,57 @@
+{
+  "accNo 111111": {
+    "accPin 4321": {
+      "accDetails": {
+        "avalBal": 8900,
+        "name": "shagor"
+      }
+    },
+    "received": {
+      "receivedAmt": 5000
+    }
+  },
+  "accNo 123456": {
+    "accPin 4321": {
+      "accDetails": {
+        "avalBal": 12000,
+        "name": "Shohag"
+      }
+    },
+    "received": {
+      "receivedAmt": 0
+    }
+  },
+  "accNo 147258": {
+    "accPin 1234": {
+      "accDetails": {
+        "avalBal": 4000,
+        "name": "Shakil"
+      }
+    },
+    "received": {
+      "receivedAmt": 0
+    }
+  },
+  "accNo 444222": {
+    "accPin 1234": {
+      "accDetails": {
+        "avalBal": 1900,
+        "name": "Sujon"
+      }
+    },
+    "received": {
+      "receivedAmt": 1000
+    }
+  },
+  "accNo 654321": {
+    "accPin 1234": {
+      "accDetails": {
+        "Name": "Bishal",
+        "avalBal": 10000
+      }
+    },
+    "recieved": {
+      "recievedAmt": 1000
+    }
+  }
+}
